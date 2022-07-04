@@ -1,5 +1,7 @@
 # NYC City Bike Analysis
 
+[link to dashboard](https://public.tableau.com/app/profile/laura.gonzalez1579/viz/Book_Challenge/StoryChallenge?publish=yes "Link to dashboard")
+
 ## Overview of the analysis: 
 
 City Bike is a program that operates in New York City. Its main objectives are to save money, save time, encourage sport enjoying it and having fun and take care of the planet by reducing car use. This program has been successful because it draws the attention not only of citizens but also of tourists who can move around economically, enjoying every corner of the city and interacting with the people there.
