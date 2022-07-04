@@ -36,7 +36,7 @@ The following visualization is intended to get us closer to the answer to the la
 
 Image 4
 
-![Trips weekday for each hour](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Trips%20weekday%20for%20each%20hour.png)
+![Trips weekday for each hour](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Trips%20by%20weekday%20for%20each%20hour.png)
 
 In this visualization you can see in a general way the hours in which there is greater demand for the service. Although the previous image is good, we can offer a more detailed one with more information that allows us to follow the thread of the story. For this we present the following image:
 
