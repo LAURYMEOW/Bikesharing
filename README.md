@@ -11,7 +11,9 @@ It has been decided to use Tableu to present the analysis.
 In a meeting that was held with the investors interested in our project, they suggested us to analyze the NYC citi Bike data for the year 2019 because it is the year before the pandemic and may reflect more accurate data than the most current. We were also asked to give a report on the program for the month of August, which is one of the months with the highest demand because it is a warm and pleasant month to use the bicycle as a means of transport.
 The first result obtained was the total number of trips in that month:
 
-!([Number of Trips]https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Number%20of%20Trips.png) Picture 1
+Picture 1
+
+![Number of Trips](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Number%20of%20Trips.png) 
 
 As can be seen, the number of trips is quite attractive to invest in a program of this type. Well, it can be seen that it is a program that is well accepted by the population.
 The question that arises from this information is what type of users demand this service. To answer this question, we have information on the type of users, including those who have an annual subscription (subscriber) and those who use it occasionally (customer).
