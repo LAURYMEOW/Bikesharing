@@ -42,7 +42,7 @@ In this visualization you can see in a general way the hours in which there is g
 
 Image 5
 
-![Trips by gender-weekday per hour]()
+![Trips by gender-weekday per hour](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Trips%20by%20gender-weekdayperhour.png)
 
 This new image allows us to more widely observe the times and days on which this means of transport is chosen. You can see in the graph that we have the information classified by gender, by hour and by day of the week. With this information, we highlight that the male gender substantially demands this service on Thursdays and Fridays from 5 to 6 in the afternoon. In turn, at a less intense but equally important level, a high demand is registered on Monday and Tuesday at the same time.
 The demand in the morning, specifically at 8 am, seems to have a lower level than that of the afternoons, but it also stands out and its behavior is more uniform, since a similar color is observed on all days of the week.
@@ -55,9 +55,13 @@ Image 6
 In this bar chart it can be seen how the schedule from 5pm to 6pm in the afternoon stands out to a great extent compared to the other schedules. Followed by the schedule of 8 am in the morning. The graph also allows us to observe that there is a demand for the service throughout the day, so it is necessary to evaluate at what time the service is least required for the revision and maintenance of the bicycles.
 This information is super useful because we have a potential investor who is very interested in our project and who actually asked us for more details about a bike trip. To cover your concerns we decided to add a couple more graphics. The following images show the average duration of a trip by user and by gender.
 
-[Checkout times by users] Image 7
+Image 7
 
-[Checkout times by gender] Image 8
+![Checkout times by users]()
+
+Image 8
+
+![Checkout times by gender]() 
 
 It can be seen that most trips usually last less than an hour. Less than half of all trips take less than two hours, and thus diminishing performance is observed as the hours of use increase.
 This information is relevant both to evaluate the number of bicycles available per hour and the amount demanded at specific times, as well as to make a diagnosis of use and establish average times to perform maintenance on the bikes.
