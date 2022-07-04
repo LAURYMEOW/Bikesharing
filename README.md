@@ -2,7 +2,7 @@
 
 ## Overview of the analysis: 
 
-City Bike is a program that operates in New York City. Its main objectives are to save money, save time, encourage sports, depend and take care of the planet by reducing car use. This program has been successful because it draws the attention not only of citizens but also of tourists who can move around economically, enjoying every corner of the city and interacting with the people there.
+City Bike is a program that operates in New York City. Its main objectives are to save money, save time, encourage sport enjoying it and having fun and take care of the planet by reducing car use. This program has been successful because it draws the attention not only of citizens but also of tourists who can move around economically, enjoying every corner of the city and interacting with the people there.
 From this program and how good a tourist visit feels with that transportation option, the idea of starting a similar project in Des Moines came about. To do this and to convince potential investors, it is essential to carry out a detailed analysis of the base program, which is the NYC City Bike model, and then put together the proposal with the characteristics of Des Moines.
 It has been decided to use Tableu to present the analysis.
 
@@ -22,7 +22,7 @@ The question that arises from this information is what type of users demand this
 
 ![User type](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/User%20type.png)
 
-As Figure 2 shows, the greatest demand seems to be from New York citizens because 83% of users have an annual subscription, while the rest are occasional users who pay per trip, which gives us the idea that the latter most likely refer to tourists.
+As Image 2 shows, the greatest demand seems to be from New York citizens because 83% of users have an annual subscription, while the rest are occasional users who pay per trip, which gives us the idea that the latter most likely refer to tourists.
 With these data at hand, a new concern arises, which is the gender that is most attracted to use the bicycle? The answer to this question will give us ideas to work on marketing.
 To solve the previous question we use the following graph:
 
@@ -30,8 +30,8 @@ To solve the previous question we use the following graph:
 
 ![User trips by gender](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20weekday.png)
 
-It can be seen in image 3 that the majority of users belong to the male gender, are subscribers and also decide to use this service mainly on Thursdays and Fridays.
-The information obtained with the previous visualization gives us a much broader and more detailed panorama which allows us to delve deeper into the Citi Bike market since it gives us an idea of ​​the key variables to consider for our project proposal in Des Moines. From the last graph a new question arises, what are the peak hours for this service.
+It can be seen in Image 3 that the majority of users belong to the male gender, are subscribers and also decide to use this service mainly on Thursdays and Fridays.
+The information obtained with the previous visualization gives us a much broader and more detailed panorama which allows us to delve deeper into the Citi Bike market since it gives us an idea of the key variables to consider for our project proposal in Des Moines. From the last graph a new question arises, what are the peak hours for this service.
 The following visualization is intended to get us closer to the answer to the last question:
 
   ####   Image 4
@@ -66,7 +66,7 @@ This information is super useful because we have a potential investor who is ver
 
 It can be seen that most trips usually last less than an hour. Less than half of all trips take less than two hours, and thus diminishing performance is observed as the hours of use increase.
 This information is relevant both to evaluate the number of bicycles available per hour and the amount demanded at specific times, as well as to make a diagnosis of use and establish average times to perform maintenance on the bikes.
-So far the report of the NYC Citi bike program.
+So far the report of the NYC Citi Bike program.
 
 ## Conclusion
 
