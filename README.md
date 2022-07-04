@@ -18,8 +18,9 @@ Picture 1
 As can be seen, the number of trips is quite attractive to invest in a program of this type. Well, it can be seen that it is a program that is well accepted by the population.
 The question that arises from this information is what type of users demand this service. To answer this question, we have information on the type of users, including those who have an annual subscription (subscriber) and those who use it occasionally (customer).
 
+Image 2
 
-[User type] Image 2
+![User type](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/User%20type.png 
 
 As Figure 2 shows, the greatest demand seems to be from New York citizens because 83% of users have an annual subscription, while the rest are occasional users who pay per trip, which gives us the idea that the latter most likely refer to tourists.
 With these data at hand, a new concern arises, which is the gender that is most attracted to use the bicycle? The answer to this question will give us ideas to work on marketing.
