@@ -1,6 +1,6 @@
 # NYC City Bike Analysis
 
-[link to dashboard](https://public.tableau.com/app/profile/laura.gonzalez1579/viz/Book_Challenge/StoryChallenge?publish=yes "Link to dashboard")
+[Link to Dashboard](https://public.tableau.com/app/profile/laura.gonzalez1579/viz/Book_Challenge/StoryChallenge?publish=yes "Link to dashboard")
 
 ## Overview of the analysis: 
 
