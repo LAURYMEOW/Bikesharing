@@ -26,23 +26,31 @@ As Figure 2 shows, the greatest demand seems to be from New York citizens becaus
 With these data at hand, a new concern arises, which is the gender that is most attracted to use the bicycle? The answer to this question will give us ideas to work on marketing.
 To solve the previous question we use the following graph:
 
-[User trips by gender] Image 3
+Image 3
+
+![User trips by gender](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20weekday.png)
 
 It can be seen in image 3 that the majority of users belong to the male gender, are subscribers and also decide to use this service mainly on Thursdays and Fridays.
 The information obtained with the previous visualization gives us a much broader and more detailed panorama which allows us to delve deeper into the Citi Bike market since it gives us an idea of ​​the key variables to consider for our project proposal in Des Moines. From the last graph a new question arises, what are the peak hours for this service.
 The following visualization is intended to get us closer to the answer to the last question:
 
-[Trips weekday for each hour] Image 4
+Image 4
+
+![Trips weekday for each hour](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Trips%20weekday%20for%20each%20hour.png)
 
 In this visualization you can see in a general way the hours in which there is greater demand for the service. Although the previous image is good, we can offer a more detailed one with more information that allows us to follow the thread of the story. For this we present the following image:
 
-[Trips by gender-weekday per hour] Image 5
+Image 5
+
+![Trips by gender-weekday per hour]()
 
 This new image allows us to more widely observe the times and days on which this means of transport is chosen. You can see in the graph that we have the information classified by gender, by hour and by day of the week. With this information, we highlight that the male gender substantially demands this service on Thursdays and Fridays from 5 to 6 in the afternoon. In turn, at a less intense but equally important level, a high demand is registered on Monday and Tuesday at the same time.
 The demand in the morning, specifically at 8 am, seems to have a lower level than that of the afternoons, but it also stands out and its behavior is more uniform, since a similar color is observed on all days of the week.
 The above information is confirmed by looking at the peak hour data for the month of August, Image 6:
 
-[August Peak hours] Image 6
+Image 6
+
+![August Peak hours]()
 
 In this bar chart it can be seen how the schedule from 5pm to 6pm in the afternoon stands out to a great extent compared to the other schedules. Followed by the schedule of 8 am in the morning. The graph also allows us to observe that there is a demand for the service throughout the day, so it is necessary to evaluate at what time the service is least required for the revision and maintenance of the bicycles.
 This information is super useful because we have a potential investor who is very interested in our project and who actually asked us for more details about a bike trip. To cover your concerns we decided to add a couple more graphics. The following images show the average duration of a trip by user and by gender.
