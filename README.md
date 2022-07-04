@@ -73,11 +73,15 @@ So far the report of the NYC Citi bike program.
 
 With the above, it can be concluded that a robust analysis has been carried out, investigating and breaking down the available data as much as possible. We have decided to present as an overview the first set of 4 graphs that describe the characteristics of the users.
 
-[Overview]Picture 8
+Picture 8
+
+![Overview](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Overview.png)
 
 And the last 4 graphs as details of the trips. This last set is divided into two pages in the story for a clearer display. Image 9 shows the first of the two.
 
-[Trips details]Image 9
+Image 9
+
+![Trips details](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Trip%20details.png)
 
 Additionally, we would like to add that we can go deeper into the model program by taking financial variables and doing the corresponding analysis, and add to our report the creation of a model applied to Des Moines so that investors can feel a little more closely the possible scenarios. .
 
