@@ -62,7 +62,7 @@ Image 7
 
 Image 8
 
-![Checkout times by gender](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Checkout%20times%20for%20gender.png) 
+![Checkout times by gender](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Checkout%20times%20by%20gender.png) 
 
 It can be seen that most trips usually last less than an hour. Less than half of all trips take less than two hours, and thus diminishing performance is observed as the hours of use increase.
 This information is relevant both to evaluate the number of bicycles available per hour and the amount demanded at specific times, as well as to make a diagnosis of use and establish average times to perform maintenance on the bikes.
