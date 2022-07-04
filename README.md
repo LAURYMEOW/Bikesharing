@@ -81,7 +81,7 @@ And the last 4 graphs as details of the trips. This last set is divided into two
 
 Image 9
 
-![Trips details](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Trip%20details.png)
+![Trips details](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Trip%20Details.png)
 
 Additionally, we would like to add that we can go deeper into the model program by taking financial variables and doing the corresponding analysis, and add to our report the creation of a model applied to Des Moines so that investors can feel a little more closely the possible scenarios. .
 
