@@ -20,7 +20,7 @@ The question that arises from this information is what type of users demand this
 
 Image 2
 
-![User type](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/User%20type.png 
+![User type](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/User%20type.png)
 
 As Figure 2 shows, the greatest demand seems to be from New York citizens because 83% of users have an annual subscription, while the rest are occasional users who pay per trip, which gives us the idea that the latter most likely refer to tourists.
 With these data at hand, a new concern arises, which is the gender that is most attracted to use the bicycle? The answer to this question will give us ideas to work on marketing.
