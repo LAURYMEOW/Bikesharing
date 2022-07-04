@@ -50,14 +50,14 @@ The above information is confirmed by looking at the peak hour data for the mont
 
 Image 6
 
-![August Peak hours]()
+![August Peak hours](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/August%20peak%20hours.png)
 
 In this bar chart it can be seen how the schedule from 5pm to 6pm in the afternoon stands out to a great extent compared to the other schedules. Followed by the schedule of 8 am in the morning. The graph also allows us to observe that there is a demand for the service throughout the day, so it is necessary to evaluate at what time the service is least required for the revision and maintenance of the bicycles.
 This information is super useful because we have a potential investor who is very interested in our project and who actually asked us for more details about a bike trip. To cover your concerns we decided to add a couple more graphics. The following images show the average duration of a trip by user and by gender.
 
 Image 7
 
-![Checkout times by users]()
+![Checkout times by users](https://github.com/LAURYMEOW/bikesharing/blob/main/Resources/Checkout%20times%20by%20users.png)
 
 Image 8
 
